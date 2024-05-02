@@ -1,5 +1,6 @@
 // Add this in the snippet code plugin Or Fucntion.php file
 //change test
+// testing new
 
 add_action( 'template_redirect', 'bbloomer_add_gift_if_id_in_cart' );
  
